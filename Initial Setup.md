@@ -19,3 +19,9 @@ pip install django
 # Start Project
 django-admin startproject csnoobhub .
 python manage.py runserver
+
+#Deliverables for Chapter 1
+
+	1.	A working Django project with the server running.
+	2.	Notes saved as chapter1_notes.md for review.
+	3.	Git repository initialized for version control.
